@@ -126,3 +126,13 @@ body  {
     max-width: 50px;
 }
 /* CONTACT END */
+
+/* Footer */
+.footer__navbar{
+    flex-direction: column;
+    gap: 10px;
+
+}
+.footer__desc{
+    color: #919191;
+}
